@@ -1,8 +1,8 @@
 # more-context-pls
 
   ## Preamble
-  You're in a help forum / communication application and you decide to ask for help. You're lost for words, so you are unsure of how to formulate your question.
-  You decide to go with something simple.
+  You're in a help forum / communication application and you decide to ask for help. You're lost for words, and you are unsure of how to formulate your question.
+  You decide to go with something you believe is simple.
 
   ```
   I have a problem compiling my script.
